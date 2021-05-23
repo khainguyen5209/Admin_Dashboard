@@ -1,0 +1,15 @@
+1. Title
+2. Title icon
+3. Font
+4.when the screen-weight size become less than medium, navbar is collapsed
+5.when navbar is collapsed, The toggle button is showed
+back ground sidebar: is image. 
+                    gradient, 
+                    box shadow, 
+                    fixed-top
+6. sidebar:hover ,radius, grey, effect slow
+current: red-> light red, radius, shadow, translateY
+search icon :red
+xl, ld, md, sm
+
+two table align item center
