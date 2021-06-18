@@ -155,3 +155,25 @@ body {
 
 
 /* end of task list  */
+
+.tdbreak {
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+#block_container {
+    /* text-align: center; */
+    display: flex;
+    justify-content: left;
+}
+
+#blocImg {
+    display: inline;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#blocText {
+    display: inline;
+    text-align: left;
+}
